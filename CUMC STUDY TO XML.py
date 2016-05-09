@@ -1,7 +1,7 @@
 # EZ Cases for the ASI Imaging System by Haseeb Durrani
 
 # Output XML file name and location
-out_xml_file = 'Desktop/C10.30.xml'
+out_xml_file = 'Desktop/A10.30.xml' # Pick file name and save location for the output XML file
 
 # The following variables must be entered by user to generate cases and slide labels specific to the study
 study_initials = "A" # What are the study initials?
