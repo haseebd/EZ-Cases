@@ -1,10 +1,10 @@
 # EZ Cases for the ASI Imaging System by Haseeb Durrani
 
 # Output XML file name and location
-out_xml_file = 'Desktop/A10.30.xml' # Pick file name and save location for the output XML file
+out_xml_file = 'Desktop/C10.30.xml' # Pick file name and save location for the output XML file
 
 # The following variables must be entered by user to generate cases and slide labels specific to the study
-study_initials = "A" # What are the study initials?
+study_initials = "C" # What are the study initials?
 study_date = "10.30" # What date were the samples put in culture? M.DD Format
 protocols = 6 # How many protocols are being tested?
 donors = ["Donor1", "Donor2", "Donor3", "Donor4"] # List of Donors - Include date (MDD) if same donor is used for multiple experiments
