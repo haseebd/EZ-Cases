@@ -1,12 +1,12 @@
 # EZ Labels for the Zebra Printer by Haseeb Durrani
 
 # Output XLS file name and location
-out_xls_file = 'Desktop/C4.29.xls'
+out_xls_file = 'Desktop/C10.30.xls' # Pick file name and save location for the output XLS file
 
 # The following variables must be entered by user to generate slide labels specific to the study
 study_name = "ConAComp" # What is the study name?
 protocols = 6 # How many protocols are being tested?
-donors = ["F223X429", "F537429", "M574429", "M599429"] # List of Donors - Include date (MDD) if same donor is used for multiple experiments
+donors = ["Donor1", "Donor2", "Donor3", "Donor4"] # List of Donors - Include date (MDD) if same donor is used for multiple experiments
 doses = ["000", "020", "040", "080"] # List of doses
 slides_per_dose = 3 # How many slides per dose?
 
